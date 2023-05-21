@@ -1,4 +1,4 @@
-package com.geekster.restaurantmanagementservice;
+package com.geekster.restaurantmanagementservice.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
