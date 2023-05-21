@@ -51,6 +51,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.geekster.restaurantmanagementservice.controller" />
+      <recent name="com.geekster.restaurantmanagementservice.service" />
       <recent name="com.geekster.restaurantmanagementservice.repositories" />
       <recent name="com.geekster.restaurantmanagementservice.model" />
     </key>
