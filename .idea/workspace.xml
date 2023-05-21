@@ -43,9 +43,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/saini/Videos/Backup/Training/2.Java-DSA/Notes/Module 4 (Spring Boot)/AWS/deployment/restaurant-management-service",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.geekster.restaurantmanagementservice.model" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="RestaurantManagementServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.geekster.restaurantmanagementservice.RestaurantManagementServiceApplication" />
